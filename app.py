@@ -18,7 +18,7 @@ import streamlit as st
 
 @st.cache_data
 def load_data():
-    return pd.read_csv("data/Prepared_AMprime.csv")
+    return pd.read_csv("data/Prepared_AMprime.zip",compression='zip')
 
 Amazon_Prime = load_data()
 
