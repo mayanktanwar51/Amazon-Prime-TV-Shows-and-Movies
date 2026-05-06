@@ -72,3 +72,4 @@ streamlit run app.py
 # 📌 Author
 
 Mayank Tanwar
+Email ID - mayanktanwar542@gmail.com
