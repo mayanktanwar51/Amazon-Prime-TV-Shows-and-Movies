@@ -19,7 +19,7 @@ The project combines data analytics, visualization, and interactive UI to create
 
 # 🚀 Live Demo
 
-👉 https://amazon-prime-tv-shows-and-movies-ogqzqx9vfnfdchaggh8u7p.streamlit.app/
+👉 https://amazon-prime-tv-shows-and-movies-medqjehvdpgdewktcwreep.streamlit.app/
 
 ---
 
